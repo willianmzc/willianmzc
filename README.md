@@ -1,4 +1,8 @@
 <h1> Hello  < People / >! <img src = "https://raw.githubusercontent.com/willianmzc/willianmzc/main/wave.gif" width = 30px> </h1>
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+</p>
+  
 
 - 👋 Hi, I’m @willianmzc
 - 👋 Hi, I’m 
