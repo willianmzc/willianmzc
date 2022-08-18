@@ -9,8 +9,7 @@
 - 👋 I’m mobile & web developer
 - 👀 I’m interested in IA, IoT, TDD ...
 - 🌱 I’m currently learning DevOps & UX/UI
-- 📫 How to reach me:
-  - Work: willianmzc@hotmail.com
+- 📫 How to reach me: willianmzc@hotmail.com
 
 # My Tech Stacks
 
